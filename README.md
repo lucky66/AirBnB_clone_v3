@@ -144,9 +144,9 @@ EOF  all  create  destroy  help  quit  show  update
 [[BaseModel] (7da56403-cc45-4f1c-ad32-bfafeb2bb050) {'updated_at': datetime.datetime(2017, 9, 28, 9, 50, 46, 772167), 'id': '7da56403-cc45-4f1c-ad32-bfafeb2bb050', 'created_at': datetime.datetime(2017, 9, 28, 9, 50, 46, 772123)}]
 (hbnb) show BaseModel 7da56403-cc45-4f1c-ad32-bfafeb2bb050
 [BaseModel] (7da56403-cc45-4f1c-ad32-bfafeb2bb050) {'updated_at': datetime.datetime(2017, 9, 28, 9, 50, 46, 772167), 'id': '7da56403-cc45-4f1c-ad32-bfafeb2bb050', 'created_at': datetime.datetime(2017, 9, 28, 9, 50, 46, 772123)}
-(hbnb) destroy BaseModel 7da56403-cc45-4f1c-ad32-bfafeb2bb050
-(hbnb) show BaseModel 7da56403-cc45-4f1c-ad32-bfafeb2bb050
-** no instance found **
+(hbnb) destroy BaseModel 7da5603-cc45-4f1c-ad32-bfafeb2bb050
+(hbnb) show BaseModel 7da56403-cc54f1c-ad32-bfafeb2bb050
+** no instance found
 (hbnb) quit
 ```
 
@@ -154,9 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Joseph Mahiuha - [Github](https://github.com/Mahiuha)  [Twitter](https://twitter.com/Joseph_Mahiuha)
-Alexa Orrico - [Github](https://github.com/alexaorrico)  [Twitter](https://twitter.com/alexa_orrico)
-Jennifer Huang - [Github](https://github.com/jhuang10123)  [Twitter](https://twitter.com/earthtojhuang)
+Chukwu Lucky 
 
 
 ## License
